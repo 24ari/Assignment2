@@ -1,0 +1,24 @@
+#searchBar {
+  margin: 15px 10px;
+  background-color: #FAEBD7;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+
+}
+
+body{
+	background-color: #F0F8FF;
+}
+
+h1{
+	color: orange;
+}
+
+input[type=text]:focus{
+	 border:3px solid orange;
+
+};
+
